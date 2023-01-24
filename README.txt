@@ -1,4 +1,4 @@
-Afin de compiler toutes les différentes versions il faut se placer dans le dossier [...] et utiliser la
+Afin de compiler toutes les différentes versions il faut se placer dans le dossier /src et utiliser la
 commande :
 
 ~/src$ make
