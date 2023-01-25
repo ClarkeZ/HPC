@@ -1,3 +1,5 @@
+Projet qui consiste à paralléliser le code fourni de l'algorithme Block Lanczos, initialement itératif.
+
 Afin de compiler toutes les différentes versions il faut se placer dans le dossier /src et utiliser la
 commande :
 
